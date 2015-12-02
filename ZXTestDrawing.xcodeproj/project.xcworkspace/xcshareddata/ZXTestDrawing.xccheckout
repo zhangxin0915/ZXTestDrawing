@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EC416B92-A7A1-4DEA-B188-994103AC3BBA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ZXTestDrawing</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D65903840E7FB2C180B2F68062C9892C10B6902F</key>
+		<string>https://github.com/zhangxin0915/ZXTestDrawing.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ZXTestDrawing.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D65903840E7FB2C180B2F68062C9892C10B6902F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/zhangxin0915/ZXTestDrawing.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D65903840E7FB2C180B2F68062C9892C10B6902F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D65903840E7FB2C180B2F68062C9892C10B6902F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ZXTestDrawing</string>
+		</dict>
+	</array>
+</dict>
+</plist>

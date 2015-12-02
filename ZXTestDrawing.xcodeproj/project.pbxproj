@@ -14,7 +14,6 @@
 		9ADDECE11C0DB03500F7B9B4 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9ADDECE01C0DB03500F7B9B4 /* Images.xcassets */; };
 		9ADDECE41C0DB03500F7B9B4 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9ADDECE21C0DB03500F7B9B4 /* LaunchScreen.xib */; };
 		9ADDECF01C0DB03500F7B9B4 /* ZXTestDrawingTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9ADDECEF1C0DB03500F7B9B4 /* ZXTestDrawingTests.m */; };
-		9ADDECFB1C0DB05100F7B9B4 /* MyView.m in Sources */ = {isa = PBXBuildFile; fileRef = 9ADDECFA1C0DB05100F7B9B4 /* MyView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,8 +40,6 @@
 		9ADDECE91C0DB03500F7B9B4 /* ZXTestDrawingTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ZXTestDrawingTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9ADDECEE1C0DB03500F7B9B4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9ADDECEF1C0DB03500F7B9B4 /* ZXTestDrawingTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZXTestDrawingTests.m; sourceTree = "<group>"; };
-		9ADDECF91C0DB05100F7B9B4 /* MyView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyView.h; sourceTree = "<group>"; };
-		9ADDECFA1C0DB05100F7B9B4 /* MyView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,8 +85,6 @@
 				9ADDECD81C0DB03500F7B9B4 /* AppDelegate.m */,
 				9ADDECDA1C0DB03500F7B9B4 /* ViewController.h */,
 				9ADDECDB1C0DB03500F7B9B4 /* ViewController.m */,
-				9ADDECF91C0DB05100F7B9B4 /* MyView.h */,
-				9ADDECFA1C0DB05100F7B9B4 /* MyView.m */,
 				9ADDECDD1C0DB03500F7B9B4 /* Main.storyboard */,
 				9ADDECE01C0DB03500F7B9B4 /* Images.xcassets */,
 				9ADDECE21C0DB03500F7B9B4 /* LaunchScreen.xib */,
@@ -224,7 +219,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9ADDECFB1C0DB05100F7B9B4 /* MyView.m in Sources */,
 				9ADDECDC1C0DB03500F7B9B4 /* ViewController.m in Sources */,
 				9ADDECD91C0DB03500F7B9B4 /* AppDelegate.m in Sources */,
 				9ADDECD61C0DB03500F7B9B4 /* main.m in Sources */,
@@ -422,6 +416,7 @@
 				9ADDECF51C0DB03500F7B9B4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9ADDECF61C0DB03500F7B9B4 /* Build configuration list for PBXNativeTarget "ZXTestDrawingTests" */ = {
 			isa = XCConfigurationList;
@@ -430,6 +425,7 @@
 				9ADDECF81C0DB03500F7B9B4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
